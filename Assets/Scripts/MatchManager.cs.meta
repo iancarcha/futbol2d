@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: db2c042b2bae5214aac0c463bf8f8b42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1Goal: {instanceID: 0}
+  - player2Goal: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - player1ScoreText: {instanceID: 0}
+  - player2ScoreText: {instanceID: 0}
+  - goalText: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - source: {instanceID: 0}
+  - goal: {fileID: 8300000, guid: 336ba89b1d976ba4f92990f4f0aef622, type: 3}
+  - referee: {fileID: 8300000, guid: a0a26019d6e3cb84fb9c66b66225a140, type: 3}
+  - publico: {fileID: 8300000, guid: 94afe21348fd75c19b9e0ae787f96b3f, type: 3}
+  - uiManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
